@@ -1,4 +1,4 @@
-In a human language like English, the different words in a sentence relate to different parts of speech, such as the *subject*, the *verb*, and the *object*. We alredy know that in a command language like Bash, we are always ever making imperative statements, so there will always be a verb. For example, when we used the `help` command, the command itself was the verb!
+In a human language like English, the different words in a sentence relate to different parts of speech, such as the *subject*, the *verb*, and the *object*. We already know that in a command language like Bash, we are always ever making imperative statements, so there will always be a verb. For example, when we used the `help` command, the command itself was the verb!
 
 However, much like human languages, context matters, and if it&rsquo;s not made explicit, the context determines things such as the subject and the object of the command. If the meaning of the command is not clear from the context, the interpreter will probably tell you by replying with an *error*. Let&rsquo;s practice this with two new commands, one that requires an explicit object and one that accepts an implicit object.
 
